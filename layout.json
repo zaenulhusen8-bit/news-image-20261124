@@ -1,0 +1,454 @@
+{
+ "cells": [
+  {
+   "kind": "lead",
+   "story": "US lawmakers condemn Nvidia's reinstatem",
+   "text_x0": 102,
+   "text_x1": 326,
+   "y0": 92,
+   "y1": 192,
+   "headline_bottom": 157,
+   "source_top": 176
+  },
+  {
+   "kind": "lead",
+   "story": "Zelensky: intelligence shows Russia plan",
+   "text_x0": 438,
+   "text_x1": 662,
+   "y0": 92,
+   "y1": 192,
+   "headline_bottom": 157,
+   "source_top": 176
+  },
+  {
+   "kind": "lead",
+   "story": "India pledges $1.6bn to help Nepal rebui",
+   "text_x0": 774,
+   "text_x1": 998,
+   "y0": 92,
+   "y1": 192,
+   "headline_bottom": 157,
+   "source_top": 176
+  },
+  {
+   "kind": "row",
+   "story": "Russian strike hits Kramatorsk evacuatio",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 318,
+   "y1": 363,
+   "headline_bottom": 343,
+   "source_top": 353
+  },
+  {
+   "kind": "row",
+   "story": "Germany raises annual Ukraine aid nearly",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 363,
+   "y1": 408,
+   "headline_bottom": 388,
+   "source_top": 398
+  },
+  {
+   "kind": "row",
+   "story": "Italy warns Ukraine war could spread to ",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 408,
+   "y1": 453,
+   "headline_bottom": 433,
+   "source_top": 443
+  },
+  {
+   "kind": "row",
+   "story": "France backs Denmark over alleged Russia",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 453,
+   "y1": 498,
+   "headline_bottom": 478,
+   "source_top": 488
+  },
+  {
+   "kind": "row",
+   "story": "Germany picks trains over Lithuania dril",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 498,
+   "y1": 543,
+   "headline_bottom": 523,
+   "source_top": 533
+  },
+  {
+   "kind": "row",
+   "story": "O'Hare ground stop amid Thanksgiving tra",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 318,
+   "y1": 363,
+   "headline_bottom": 343,
+   "source_top": 353
+  },
+  {
+   "kind": "row",
+   "story": "White House pulls FDA nominee Heidi Over",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 363,
+   "y1": 408,
+   "headline_bottom": 376,
+   "source_top": 398
+  },
+  {
+   "kind": "row",
+   "story": "Trump orders Army to wait on Iowa explos",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 408,
+   "y1": 453,
+   "headline_bottom": 433,
+   "source_top": 443
+  },
+  {
+   "kind": "row",
+   "story": "74% of US Latinos have seen or heard ICE",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 453,
+   "y1": 498,
+   "headline_bottom": 478,
+   "source_top": 488
+  },
+  {
+   "kind": "row",
+   "story": "Van Hollen demands scrutiny of Nvidia ch",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 498,
+   "y1": 543,
+   "headline_bottom": 523,
+   "source_top": 533
+  },
+  {
+   "kind": "row",
+   "story": "NATO chief warns of intensifying malign ",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 318,
+   "y1": 363,
+   "headline_bottom": 331,
+   "source_top": 353
+  },
+  {
+   "kind": "row",
+   "story": "Germany and Sweden to build global AI se",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 363,
+   "y1": 408,
+   "headline_bottom": 388,
+   "source_top": 398
+  },
+  {
+   "kind": "row",
+   "story": "Cyprus expels two envoys over suspected ",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 408,
+   "y1": 453,
+   "headline_bottom": 433,
+   "source_top": 443
+  },
+  {
+   "kind": "row",
+   "story": "France seeks fresh start with Israel as ",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 453,
+   "y1": 498,
+   "headline_bottom": 478,
+   "source_top": 488
+  },
+  {
+   "kind": "row",
+   "story": "Third of UK crime victims won't report, ",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 498,
+   "y1": 543,
+   "headline_bottom": 523,
+   "source_top": 533
+  },
+  {
+   "kind": "row",
+   "story": "Gaza now a toxic wasteland, Oxfam-CEOBS ",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 573,
+   "y1": 618,
+   "headline_bottom": 598,
+   "source_top": 608
+  },
+  {
+   "kind": "row",
+   "story": "UAE condemns Khartoum strikes that damag",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 618,
+   "y1": 663,
+   "headline_bottom": 643,
+   "source_top": 653
+  },
+  {
+   "kind": "row",
+   "story": "Saudi Arabia denounces Khartoum drone st",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 663,
+   "y1": 708,
+   "headline_bottom": 676,
+   "source_top": 698
+  },
+  {
+   "kind": "row",
+   "story": "Egypt denounces Khartoum strikes, urges ",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 708,
+   "y1": 753,
+   "headline_bottom": 733,
+   "source_top": 743
+  },
+  {
+   "kind": "row",
+   "story": "Iran threatens EU bases with 4,500 km mi",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 753,
+   "y1": 798,
+   "headline_bottom": 766,
+   "source_top": 788
+  },
+  {
+   "kind": "row",
+   "story": "Tanker incident involving military force",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 798,
+   "y1": 843,
+   "headline_bottom": 823,
+   "source_top": 833
+  },
+  {
+   "kind": "row",
+   "story": "Seoul names new foreign minister, first ",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 573,
+   "y1": 618,
+   "headline_bottom": 598,
+   "source_top": 608
+  },
+  {
+   "kind": "row",
+   "story": "Pakistan envoy: Shenzhen summit shows mu",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 618,
+   "y1": 663,
+   "headline_bottom": 643,
+   "source_top": 653
+  },
+  {
+   "kind": "row",
+   "story": "Xi sends solidarity message to Palestini",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 663,
+   "y1": 708,
+   "headline_bottom": 688,
+   "source_top": 698
+  },
+  {
+   "kind": "row",
+   "story": "Shenzhen turns garbage trucks into rolli",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 708,
+   "y1": 753,
+   "headline_bottom": 733,
+   "source_top": 743
+  },
+  {
+   "kind": "row",
+   "story": "Space42 and Microsoft UAE launch geospat",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 753,
+   "y1": 798,
+   "headline_bottom": 778,
+   "source_top": 788
+  },
+  {
+   "kind": "row",
+   "story": "Vanuatu-Australia pact ratification reco",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 798,
+   "y1": 843,
+   "headline_bottom": 823,
+   "source_top": 833
+  },
+  {
+   "kind": "row",
+   "story": "US seeks answers on Nvidia chips sold to",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 573,
+   "y1": 618,
+   "headline_bottom": 586,
+   "source_top": 608
+  },
+  {
+   "kind": "row",
+   "story": "UN chief urges global AI safety framewor",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 618,
+   "y1": 663,
+   "headline_bottom": 643,
+   "source_top": 653
+  },
+  {
+   "kind": "row",
+   "story": "Connected cars can help abusers track vi",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 663,
+   "y1": 708,
+   "headline_bottom": 688,
+   "source_top": 698
+  },
+  {
+   "kind": "row",
+   "story": "NSW councils demand poker machine reform",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 708,
+   "y1": 753,
+   "headline_bottom": 721,
+   "source_top": 743
+  },
+  {
+   "kind": "row",
+   "story": "London's new 437m pound museum opens",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 753,
+   "y1": 798,
+   "headline_bottom": 766,
+   "source_top": 788
+  },
+  {
+   "kind": "row",
+   "story": "Dutch activist dies by euthanasia at 28",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 798,
+   "y1": 843,
+   "headline_bottom": 811,
+   "source_top": 833
+  },
+  {
+   "kind": "row",
+   "story": "Brazil cuts 2027 growth forecast to 1.8%",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 873,
+   "y1": 918,
+   "headline_bottom": 886,
+   "source_top": 908
+  },
+  {
+   "kind": "row",
+   "story": "Brazil markets lift inflation, dollar fo",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 918,
+   "y1": 963,
+   "headline_bottom": 931,
+   "source_top": 953
+  },
+  {
+   "kind": "row",
+   "story": "Russia imports 20,000 Chinese workers fo",
+   "text_x0": 52,
+   "text_x1": 326,
+   "y0": 963,
+   "y1": 1008,
+   "headline_bottom": 988,
+   "source_top": 998
+  },
+  {
+   "kind": "row",
+   "story": "FIFA picks US for 2031 Women's World Cup",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 873,
+   "y1": 918,
+   "headline_bottom": 898,
+   "source_top": 908
+  },
+  {
+   "kind": "row",
+   "story": "CAS to rule on Senegal's AFCON title app",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 918,
+   "y1": 963,
+   "headline_bottom": 943,
+   "source_top": 953
+  },
+  {
+   "kind": "row",
+   "story": "Tyson Fury reveals schizophrenia diagnos",
+   "text_x0": 388,
+   "text_x1": 662,
+   "y0": 963,
+   "y1": 1008,
+   "headline_bottom": 976,
+   "source_top": 998
+  },
+  {
+   "kind": "row",
+   "story": "Beaver Supermoon rises tonight, first of",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 873,
+   "y1": 918,
+   "headline_bottom": 898,
+   "source_top": 908
+  },
+  {
+   "kind": "row",
+   "story": "UNSW unveils world-first 'megafire' simu",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 918,
+   "y1": 963,
+   "headline_bottom": 943,
+   "source_top": 953
+  },
+  {
+   "kind": "row",
+   "story": "Eight new emergency drones for Northern ",
+   "text_x0": 724,
+   "text_x1": 998,
+   "y0": 963,
+   "y1": 1008,
+   "headline_bottom": 988,
+   "source_top": 998
+  }
+ ]
+}
